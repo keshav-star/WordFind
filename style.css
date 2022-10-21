@@ -1,7 +1,13 @@
+*{
+   background-color:black;
+}
 
 .container{
    
     text-align: center;
+}
+section div .btn{
+   border:2px solid black;
 }
 .form-control{
     width: 50%;
